@@ -1,3 +1,2 @@
 PyQt5
-PIL
-sqlite3
+pillow
